@@ -1,3 +1,3 @@
-Admin.create(email: "admin@prelauncher.info", password: "prelauncher")
+Admin.create(email: "brad.milne@betterplacerest.com", password: "Yosemite1")
 
 
