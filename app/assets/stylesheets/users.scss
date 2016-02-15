@@ -9,6 +9,7 @@
 	top: 0px;
 	width: 100%;
 	display: table;
+  background-image: url(#{asset_url(Setting.cover_image.url)});
 }
 
 .cover{
