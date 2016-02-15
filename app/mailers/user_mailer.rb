@@ -1,5 +1,5 @@
 class UserMailer < ActionMailer::Base
-  default from: "\"Better Place" <team@betterplacerest.com>"
+  default from: "\"Better Place\" <team@betterplacerest.com>"
   layout 'mailer'
 
     def sign_up_email(user)
