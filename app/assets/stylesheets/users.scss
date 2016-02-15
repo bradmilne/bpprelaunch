@@ -17,14 +17,14 @@
 	text-align: center;
 	vertical-align: middle;
 	display: table-cell;
-	background-color: rgba(0, 0, 0, 0.4);
+	background-color: rgba(0, 0, 0, 0.2);
 }
 
 .cover-title{
 	font-size: 50px;
 	color: #FFF;
-	font-weight: 400;
-	font-family: sans-serif;
+	font-weight: 800;
+	font-family: 'Oswald', Helvetica, sans-serif;
 	width: auto;
 	text-align: center;
 	margin: 0px auto;
@@ -32,11 +32,12 @@
 }
 
 .cover-subtitle{
-	font-size: 20px;
+	font-size: 23px;
+  line-height: 30px;
 	color: #FFF;
 	font-weight: 400;
-	font-family: Lato;
-	max-width: 600px;
+	font-family: 'Oswald', Helvetica, sans-serif;
+	max-width: 700px;
 	text-align: center;
 	margin: 50px auto;
 	text-transform: none;
@@ -58,6 +59,7 @@
 	height: 45px;
 	border-radius: 0px;
 	font-size: 18px;
+  font-family: 'Oswald', Helvetica, sans-serif;
 	width: 100%;
 	float: left;
 	display: inline-block;	
@@ -71,7 +73,7 @@
     width: 100%;
     background-color: #4EC9ED;
     color: #FFF;
-    font-family: Lato;
+    font-family: 'Oswald', Helvetica, sans-serif;
     float: left;
     display: inline-block;
     margin-left: -5px;
@@ -81,7 +83,7 @@
 	font-size: 16px;
 	color: #FFF;
 	font-weight: 400;
-	font-family: Lato;
+	font-family: 'Oswald', Helvetica, sans-serif;
 	text-transform: none;
 	text-align: center;
 	margin: 0px auto;
