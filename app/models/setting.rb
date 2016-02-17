@@ -23,6 +23,7 @@ class Setting < ActiveRecord::Base
 
 	MAILCHIMP_API_KEY = nil
 	MAILCHIMP_LIST_ID = nil
+	
 	def self.cover_image
 		(Setting.first || Setting.new).cover_image
 	end
